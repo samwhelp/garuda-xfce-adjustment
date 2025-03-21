@@ -14,6 +14,9 @@
 | [Garuda Xfce Note](https://samwhelp.github.io/note-about-garuda-xfce/) | [GitHub](https://github.com/samwhelp/note-about-garuda-xfce) |
 
 
+> [Keybind Cheatsheet](https://samwhelp.github.io/garuda-xfce-adjustment/read/cheatsheet/keybind.html)
+
+
 
 
 ## Subject
