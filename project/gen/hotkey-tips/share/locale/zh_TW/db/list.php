@@ -172,6 +172,11 @@
 	$list[] = $item;
 
 	$item = array();
+	$item['Keybind'] = "Win + x";
+	$item['Action'] = "視窗 / 最小化";
+	$list[] = $item;
+
+	$item = array();
 	$item['Keybind'] = "Win + d";
 	$item['Action'] = "切換顯示桌面";
 	$list[] = $item;
@@ -184,6 +189,16 @@
 	$item = array();
 	$item['Keybind'] = "Win + r";
 	$item['Action'] = "視窗 / 開始更改大小";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + t";
+	$item['Action'] = "視窗 / 保持永遠在最上方";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + y";
+	$item['Action'] = "視窗 / 內容區塊收合";
 	$list[] = $item;
 
 /*

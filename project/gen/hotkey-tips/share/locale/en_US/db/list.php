@@ -172,6 +172,11 @@
 	$list[] = $item;
 
 	$item = array();
+	$item['Keybind'] = "Win + x";
+	$item['Action'] = "Window / Minimize";
+	$list[] = $item;
+
+	$item = array();
 	$item['Keybind'] = "Win + d";
 	$item['Action'] = "Toggle Show Desktop";
 	$list[] = $item;
@@ -184,6 +189,16 @@
 	$item = array();
 	$item['Keybind'] = "Win + r";
 	$item['Action'] = "Window Begin Resize";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + t";
+	$item['Action'] = "Window / Always on Top";
+	$list[] = $item;
+
+	$item = array();
+	$item['Keybind'] = "Win + y";
+	$item['Action'] = "Window / Toggle Shade";
 	$list[] = $item;
 
 /*
