@@ -173,7 +173,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Win + x";
-	$item['Action'] = "Window / Minimize";
+	$item['Action'] = "Window Minimize";
 	$list[] = $item;
 
 	$item = array();
@@ -193,12 +193,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Win + t";
-	$item['Action'] = "Window / Always on Top";
+	$item['Action'] = "Window Always on Top";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + y";
-	$item['Action'] = "Window / Toggle Shade";
+	$item['Action'] = "Window Toggle Shade";
 	$list[] = $item;
 
 /*

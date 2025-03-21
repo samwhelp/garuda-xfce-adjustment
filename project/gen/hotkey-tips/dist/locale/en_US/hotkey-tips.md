@@ -35,12 +35,12 @@
 | `Win + q` | Window Close |
 | `Win + f` | Window Fullscreen |
 | `Win + w` | Window Maximize |
-| `Win + x` | Window / Minimize |
+| `Win + x` | Window Minimize |
 | `Win + d` | Toggle Show Desktop |
 | `Win + e` | Window Begin Move |
 | `Win + r` | Window Begin Resize |
-| `Win + t` | Window / Always on Top |
-| `Win + y` | Window / Toggle Shade |
+| `Win + t` | Window Always on Top |
+| `Win + y` | Window Toggle Shade |
 | `Win + Mouse Left Drag` | Window Move |
 | `Win + Mouse Right Drag` | Window Resize |
 | `Win + a` | Window Switch Previous |
