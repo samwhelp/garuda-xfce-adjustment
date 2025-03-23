@@ -1,6 +1,6 @@
 
 
-# Garuda Kde Plasma Keybindings
+# Garuda Xfce Keybindings
 
 
 ## Hotkey

@@ -1,6 +1,6 @@
 
 
-# Garuda Kde Plasma 按鍵綁定
+# Garuda Xfce 按鍵綁定
 
 
 ## 快捷鍵
